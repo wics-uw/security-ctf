@@ -8,9 +8,9 @@ Welcome to the WiCS CTF!
 ## About 
 
 The WiCS CTF is hosted by the University of Waterloo 
-[Women in Computer Science Undergraduate Committee](wics.uwaterloo.ca) with the
+[Women in Computer Science Undergraduate Committee](http://wics.uwaterloo.ca) with the
 goal of providing a fun and inclusive environment for 
-[women](wics.uwaterloo.ca/faq) to learn security.
+[women](http://wics.uwaterloo.ca/faq) to learn security.
 
 The framework was forked from the [fbctf](https://github.com/facebook/fbctf). 
 
@@ -26,7 +26,7 @@ You will need:
 
 **Ubuntu 14.04 Machine**
 
-Available from [DigitalOcean](www.digitalocean.com) for $20 (USD) per month. 
+Available from [DigitalOcean](https://www.digitalocean.com) for $20 (USD) per month. 
 
 **Questions**
 
@@ -38,4 +38,4 @@ WiCS CTF question repository.
 
 ## Development 
 
-Under construction. 
+Under construction.
